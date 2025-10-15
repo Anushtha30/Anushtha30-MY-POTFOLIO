@@ -106,7 +106,7 @@ nav {
 nav ul {
   background: linear-gradient(90deg, #9b4dff, #f07bff);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   list-style: none;
   display: flex;
   margin: 0;
@@ -131,7 +131,7 @@ nav button {
   background: linear-gradient(90deg, #9b4dff, #f07bff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  color: rgb(0, 0, 0);
+  color: rgb(4, 4, 4);
   border: none;
   padding: 10px 20px;
   font-size: 16px;
